@@ -5,6 +5,14 @@ This repository contains a **Google Colab notebook** that builds and evaluates a
 ## Notebook
 - `toxic_multilabel.ipynb` → includes preprocessing, TF-IDF vectorization, model training (One-vs-Rest Logistic Regression), threshold tuning, evaluation, and confusion matrix.
 
+## Dataset
+
+This project uses the **Toxic Comment Classification Challenge** dataset from Kaggle.  
+You can download it here:
+
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+
+
 ## How to run
 1. Open the notebook in GitHub, or click **“Open in Colab”**
 2. Upload the dataset file when the notebook asks for it
